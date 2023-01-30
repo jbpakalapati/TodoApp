@@ -29,7 +29,7 @@ this  onboarding screens will appear only once. first time when you open the app
 
 ### SignUp Screen
 
-![](https://media.giphy.com/media/ss8IPty5gGDTyWlFRK/giphy.gif) ![](https://media.giphy.com/media/ss8IPty5gGDTyWlFRK/giphy.gif)
+![](https://media.giphy.com/media/ss8IPty5gGDTyWlFRK/giphy.gif) ![](https://media.giphy.com/media/ZxZe50t7doaYZwt7AV/giphy.gif)
 
 
 ### To do App operrations
